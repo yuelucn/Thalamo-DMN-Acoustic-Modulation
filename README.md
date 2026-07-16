@@ -54,7 +54,7 @@ Interested researchers, polar sleep observers, and technical evaluators are welc
 1. **Acoustic Isolation Check:** This neural phase-locked loop relies strictly on the independent gating of left/right auditory pathways. Therefore, **it is mandatory to utilize over-ear closed-back headphones (or high-isolation in-ear monitors)**. Open-back headphones or external loudspeakers will cause acoustic cross-talk and phase cancellation in the air, rendering the modulation completely invalid.
 2. **Lossy Compression Warning:** Data compression protocols applied by mainstream streaming platforms introduce micro-scale phase drift and frequency aliasing, which degrade the efficacy of the phase-locked loop. Please download the original, uncompressed WAV/FLAC file directly from the [Releases] section of this repository.
 
-👉 **[Navigate to Releases for Lossless Audio Download](这里替换为第二步您上传成功后复制的WAV直链网址)**
+👉 **https://github.com/yuelucn/Thalamo-DMN-Acoustic-Modulation/releases/download/v1.0.0/Audio_S1_Comfort.wav**
 
 ### [中文]
 为便于对该理论框架进行客观数理评估，作者提供了一首经闭源算法完整调制的 18 分钟学术演示成品音频。**该评估音频的数字信号制作完全依据作者在前述论文中所推导的刚性参数与数理模型。**
@@ -67,7 +67,7 @@ Interested researchers, polar sleep observers, and technical evaluators are welc
 1. **换能器隔离要求：** 本算法的内源性相干机制极度依赖左/右独立通道的声学隔离。因此，**测试验证时必须使用双耳封闭式耳机（如头戴封闭式耳机或高隔音的入耳式耳塞）**。严禁使用开放式耳机或音箱外放，否则左/右声道声波将在空气中发生前级物理混叠与相位对消，导致中枢锁相完全失效。
 2. **传输完整性要求：** 大众流媒体平台的有损压缩算法会引入微观载波相位漂移与频率混叠。请务必在本仓库的 [Releases] 页面直接下载未经压缩的原版无损 WAV 文件。
 
-👉 **[点击跳转至 Releases 页面下载无损音频](这里替换为第二步您上传成功后复制的WAV直链网址)**
+👉 **https://github.com/yuelucn/Thalamo-DMN-Acoustic-Modulation/releases/download/v1.0.0/Audio_S1_Comfort.wav**
 
 
 ## ⚖️ 成果分发授权与免责声明 (Terms of Use & Disclaimer)
